@@ -1,16 +1,40 @@
-# flutter_demo
+# Creative Application (State Management)
 
-A new Flutter project.
+This project is created for assignment submission.
 
-## Getting Started
+## Project Name
 
-This project is a starting point for a Flutter application.
+Daily Task Tracker App
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Add new tasks
+- View dynamic task list
+- Mark task as completed
+- UI updates instantly using state management
+- Empty state message
+- Clean and simple design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## State Management Used
+
+- StatefulWidget
+- setState()
+
+## Widgets Used
+
+- Scaffold
+- AppBar
+- TextField
+- ElevatedButton
+- ListView
+- Card
+- Checkbox
+- ListTile
+
+## Screenshot
+
+![Output](Screenshot%202026-05-03%20180647.png)
+
+## Result
+
+Application runs smoothly without runtime errors.
